@@ -1,0 +1,36 @@
+# Entornos virtuales
+modelodeexamen/
+venv/
+env/
+*.egg-info/
+
+# Archivos de Python compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Archivos de configuración de VSCode
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de bases de datos SQLite
+*.sqlite
+*.db
+
+# Archivos CSV o de datos grandes (si no se desea versionar)
+*.csv
+*.xlsx
+*.xls
+
+# Logs y salidas temporales
+*.log
+
+# Archivo de entorno (variables secretas, si se usan)
+.env
